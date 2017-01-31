@@ -1,0 +1,30 @@
+html {
+	font-size: 18px;
+	background-color: white;
+}
+
+header .container {
+	display: flex;
+	align-items: flex-start;
+}
+
+header {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+
+header span {
+	color: #FFFFFF;
+	font-family: Roboto;
+	margin: 0.66rem auto;
+	font-size: 1rem;
+}
+
+.banner {
+	background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 25em;
+}
